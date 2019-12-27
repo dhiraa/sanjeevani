@@ -41,11 +41,11 @@ Medical image processing and modeling:
    - https://github.com/DIDSR/VICTRE_DM_ROIs
  
  - **Eye**
-  - https://www.kaggle.com/paultimothymooney/kermany2018 5GB JPEG image classification 
-  - https://www.kaggle.com/benjaminwarner/resized-2015-2019-blindness-detection-images 17GB image classification **Base dataset**
+   - https://www.kaggle.com/paultimothymooney/kermany2018 5GB JPEG image classification 
+   - https://www.kaggle.com/benjaminwarner/resized-2015-2019-blindness-detection-images 17GB image classification **Base dataset**
   
  - **Chest**
-  - https://www.kaggle.com/c/rsna-pneumonia-detection-challenge 4GB Dicom **possible 2nd dataset**
+   - https://www.kaggle.com/c/rsna-pneumonia-detection-challenge 4GB Dicom **possible 2nd dataset**
 
 # Deep Learning
 
@@ -81,10 +81,10 @@ Medical image processing and modeling:
 
 # Our choice of Tools
 - AWS
- - S3
- - EMR
+  - S3
+  - EMR
 - Apache Spark
 - MLFLOW
- - https://github.com/mlflow/mlflow/tree/master/examples/flower_classifier
+  - https://github.com/mlflow/mlflow/tree/master/examples/flower_classifier
 - Tensorflow
 - Kubernets (?)
