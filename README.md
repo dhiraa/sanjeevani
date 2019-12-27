@@ -42,7 +42,10 @@ Medical image processing and modeling:
  
  - **Eye**
   - https://www.kaggle.com/paultimothymooney/kermany2018 5GB JPEG image classification 
-  - https://www.kaggle.com/benjaminwarner/resized-2015-2019-blindness-detection-images 17GB image classification
+  - https://www.kaggle.com/benjaminwarner/resized-2015-2019-blindness-detection-images 17GB image classification **Base dataset**
+  
+ - **Chest**
+  - https://www.kaggle.com/c/rsna-pneumonia-detection-challenge 4GB Dicom **possible 2nd dataset**
 
 # Deep Learning
 
