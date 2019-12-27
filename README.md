@@ -12,9 +12,15 @@ Medical image processing and modeling:
 - https://niftynet.io/
 - https://itk.org/
 - https://vtk.org/
-
+- https://www.kaggle.com/schlerp/getting-to-know-dicom-and-the-data/data
 # [Papers](papers)
 
+# Format
+- Dicom
+ - https://www.kaggle.com/schlerp/getting-to-know-dicom-and-the-data/data
+- Nii
+ - http://paulbourke.net/dataformats/nii/
+ 
 # Datasets
 
 - **Realated to Lung**
@@ -29,10 +35,14 @@ Medical image processing and modeling:
     - https://wiki.cancerimagingarchive.net/display/Public/ACRIN-FLT-Breast 70GB
   
 - **Breast Cancer**
-- https://wiki.cancerimagingarchive.net/display/Public/The+VICTRE+Trial%3A+Open-Source%2C+In-Silico+Clinical+Trial+For+Evaluating+Digital+Breast+Tomosynthesis 1TB
-  - [Download utils](https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images)
-  - https://github.com/DIDSR/VICTRE
-  - https://github.com/DIDSR/VICTRE_DM_ROIs
+ - https://wiki.cancerimagingarchive.net/display/Public/The+VICTRE+Trial%3A+Open-Source%2C+In-Silico+Clinical+Trial+For+Evaluating+Digital+Breast+Tomosynthesis 1TB
+   - [Download utils](https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images)
+   - https://github.com/DIDSR/VICTRE
+   - https://github.com/DIDSR/VICTRE_DM_ROIs
+ 
+ - **Eye**
+  - https://www.kaggle.com/paultimothymooney/kermany2018 5GB JPEG image classification 
+  - https://www.kaggle.com/benjaminwarner/resized-2015-2019-blindness-detection-images 17GB image classification
 
 # Deep Learning
 
