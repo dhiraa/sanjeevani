@@ -79,3 +79,12 @@ Medical image processing and modeling:
 - Metrics to evaluate
 - Prediction
 
+# Our choice of Tools
+- AWS
+ - S3
+ - EMR
+- Apache Spark
+- MLFLOW
+ - https://github.com/mlflow/mlflow/tree/master/examples/flower_classifier
+- Tensorflow
+- Kubernets (?)
