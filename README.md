@@ -17,12 +17,22 @@ Medical image processing and modeling:
 
 # Datasets
 
-## Realated to Lung
-* http://networkrepository.com/lung-cancer.php
-* https://archive.ics.uci.edu/ml/datasets/Lung+Cancer
-* https://lndb.grand-challenge.org/Home/
-  - https://kits19.grand-challenge.org/data/
-* http://biogps.org/dataset/tag/lung%20cancer/
+- **Realated to Lung**
+  * http://networkrepository.com/lung-cancer.php
+  * https://archive.ics.uci.edu/ml/datasets/Lung+Cancer
+  * https://lndb.grand-challenge.org/Home/
+    - https://kits19.grand-challenge.org/data/
+    - https://arxiv.org/pdf/1904.00445.pdf
+  * http://biogps.org/dataset/tag/lung%20cancer/
+  * https://www.cancerimagingarchive.net/ Needs to raise request for the dataset with a reason
+    - https://wiki.cancerimagingarchive.net/display/Public/TCGA-LUAD 20GB
+    - https://wiki.cancerimagingarchive.net/display/Public/ACRIN-FLT-Breast 70GB
+  
+- **Breast Cancer**
+- https://wiki.cancerimagingarchive.net/display/Public/The+VICTRE+Trial%3A+Open-Source%2C+In-Silico+Clinical+Trial+For+Evaluating+Digital+Breast+Tomosynthesis 1TB
+  - [Download utils](https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images)
+  - https://github.com/DIDSR/VICTRE
+  - https://github.com/DIDSR/VICTRE_DM_ROIs
 
 # Deep Learning
 
