@@ -21,6 +21,7 @@ Medical image processing and modeling:
 * http://networkrepository.com/lung-cancer.php
 * https://archive.ics.uci.edu/ml/datasets/Lung+Cancer
 * https://lndb.grand-challenge.org/Home/
+  - https://kits19.grand-challenge.org/data/
 * http://biogps.org/dataset/tag/lung%20cancer/
 
 # Deep Learning
