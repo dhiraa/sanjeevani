@@ -79,6 +79,9 @@ Medical image processing and modeling:
 - Metrics to evaluate
 - Prediction
 
+- https://towardsdatascience.com/object-oriented-machine-learning-pipeline-with-mlflow-for-pandas-and-koalas-dataframes-ef8517d39a12
+
+
 # Our choice of Tools
 - AWS
   - S3
